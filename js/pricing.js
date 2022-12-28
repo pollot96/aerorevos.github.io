@@ -238,9 +238,9 @@ function mobilpricing(m){
   document.getElementsByClassName("col-sm-4")[1].style.display="none";
   document.getElementsByClassName("col-sm-4")[2].style.display="none";
   document.getElementsByClassName("btn-men-return")[0].style.display="block";
-  document.getElementsByClassName("col-sm-4")[a].style.display="block";
+  document.getElementsByClassName("col-sm-4")[m].style.display="block";
   document.getElementsByClassName("mobil-menu-pricing")[0].style.display="none";
-  document.getElementsByClassName("col-sm-4")[a].style.marginLeft="0px";
+  document.getElementsByClassName("col-sm-4")[m].style.marginLeft="0px";
 
 }
 function mobilpricingreturn(){
